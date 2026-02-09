@@ -6,3 +6,6 @@ b = copy.deepcopy(a)
 b[0].append(5)
 print(a)
 print(b)
+
+print(id(a))
+print(id(b))
