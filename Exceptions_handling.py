@@ -9,9 +9,9 @@ def get_int():
 
         except ValueError:
             print(f"x in not a intger")
+            #pass
             
         else:   #after try else will run. 
-            break
-    return x
+            return x
 
 main()
