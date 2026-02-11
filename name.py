@@ -7,4 +7,4 @@ import sys
 # except:
 #     print("few argument")
 
-cowsay.cow("I Love You Bonna")cowsay.cow("I Love You Bangladesh")
+cowsay.cow("I Love You Bangladesh")
