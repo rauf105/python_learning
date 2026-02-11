@@ -3,6 +3,7 @@ def main():
     print("square of number x is", square(number))
 
 def square(n):
-    return n ** 2 
+    return n * n 
 
-main()
+if __name__ == "__main__":
+    main()
