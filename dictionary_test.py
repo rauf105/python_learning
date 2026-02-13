@@ -3,7 +3,8 @@ info={
     "cgpa": 3.74,
     "mark":[95,97,90],
     "topic":("dict","set"),
-    "semester": "9th"
+    "semester": "9th",
+    "year":2026,
 }
 #print(info)
 
