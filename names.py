@@ -13,8 +13,8 @@
 # for line in lines:
 #     print("hello, ", line.rstrip())
 
-#   read file and sort them
 
+#   read file and sort them
 names = []
 with open("names.txt" , "r") as file:
     for line in file:
