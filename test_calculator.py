@@ -18,5 +18,5 @@ def test_str():
 
 
 # to run this test file you have to write in terminal
-#pytest test_calculator.py
-
+#pytest test_calculator.
+#learn how to run test file
